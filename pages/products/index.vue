@@ -4,16 +4,19 @@
       thumbnail="https://shop.designsforhealth.com/assets/images/items/5htp-supreme_60%20capsules-1.png?resizeid=7&resizeh=500&resizew=500"
       title="5-HTP SUPREME™"
       preview-text="5•HTP Supreme™ is a synergistic formula of 5-hydroxytryptophan (100 mg)"
+      id="1"
     />
     <Product
       thumbnail="https://shop.designsforhealth.com/assets/images/items/5htp-synergy_90%20capsules-1.png?resizeid=7&resizeh=500&resizew=500"
       title="5-HTP SYNERGY™"
       preview-text="5•HTP Synergy™ is a synergistic formula of 5-hydroxytryptophan and vitamin"
+      id="2"
     />
     <Product
       thumbnail="https://shop.designsforhealth.com/assets/images/items/7-keto_60%20capsules-1.png?resizeid=7&resizeh=500&resizew=500"
       title="7-KETO®"
       preview-text="7-Keto® is a registered trade name for the compound 3-acetyl-7-oxo DHEA"
+      id="3"
     />
 
 <!-- Initial Products Page Instances Concept   -->
@@ -45,7 +48,8 @@ export default {
   components: {Product},
   comments: {
     Product
-  }
+  },
+
 }
 </script>
 
