@@ -13,7 +13,7 @@
   }
 </script>
 
-<style>
+<style scoped>
   .product {
     box-sizing: border-box;
     width: 280px;
