@@ -1,7 +1,5 @@
 # D-F-H Nuxt Demo App
 
-<!--> D-F-H Nuxt Demo App-->
-
 ## Build Setup
 
 ``` bash
