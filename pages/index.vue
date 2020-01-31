@@ -8,22 +8,6 @@
       <h2 class="subtitle">
         Designs for Health Nuxt Demo App
       </h2>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
     </div>
   </div>
 </template>
@@ -46,6 +30,7 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-color: #35495e;
 }
 
 .title {
@@ -61,7 +46,7 @@ export default {
 .subtitle {
   font-weight: 300;
   font-size: 42px;
-  color: #526488;
+  color: white;
   word-spacing: 5px;
   padding-bottom: 15px;
 }
@@ -69,4 +54,5 @@ export default {
 .links {
   padding-top: 15px;
 }
+
 </style>
