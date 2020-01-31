@@ -1,6 +1,6 @@
 # designs-for-health
 
-> Designs for Health Nuxt Demo App
+> D-F-H Nuxt Demo App
 
 ## Build Setup
 
