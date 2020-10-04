@@ -1,4 +1,4 @@
-# D-F-H Nuxt Demo App
+# Nuxt Demo App
 
 ## Build Setup
 
