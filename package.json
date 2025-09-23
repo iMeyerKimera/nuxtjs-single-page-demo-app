@@ -11,7 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^3.16.0"
+    "nuxt": "^3.19.0"
   },
   "devDependencies": {}
 }
